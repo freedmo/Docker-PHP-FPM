@@ -1,4 +1,4 @@
-FROM php:7.2.5-cli
+FROM php:7.1.17-cli
 
 RUN docker-php-source extract \
     # do important things \
